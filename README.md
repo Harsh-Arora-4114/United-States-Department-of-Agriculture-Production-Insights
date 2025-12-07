@@ -106,9 +106,8 @@ Use of this project should comply with Coursera’s academic integrity policies.
 
 ---
 
-### License
-
-The data and project material are provided by **Coursera** and are intended for educational use under their platform terms. This project does **not claim ownership of the datasets** and is shared in accordance with Coursera’s educational license and use policy.
+## License
+This project is licensed under the MIT License.
 
 ---
 
